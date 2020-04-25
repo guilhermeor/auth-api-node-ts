@@ -1,0 +1,8 @@
+POST http://127.0.0.1:3000/authenticate
+content-type: application/json
+
+{
+    "user": "gui",
+    "password": "123"
+}
+###
